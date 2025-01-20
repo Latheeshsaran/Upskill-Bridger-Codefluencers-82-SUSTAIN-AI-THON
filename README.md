@@ -18,9 +18,7 @@ The workflow begins with dataset preprocessing, followed by model training and e
 ---
 
 ## 🧠 Concept Map
-<p align="center">
-    <img src="Concept.png" alt="Concept Map" width="600">
-</p>
+![Concept Map](./Conceptmap.png)
 The concept revolves around aligning individual learning paths with industry demands while promoting career growth and workforce retention.
 
 ---
