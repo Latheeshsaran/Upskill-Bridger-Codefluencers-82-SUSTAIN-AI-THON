@@ -12,7 +12,7 @@ In a rapidly evolving job market, individuals often face challenges in identifyi
 The goal is to develop an AI-driven upskilling recommendation system that:Identifies Skill Gaps,Compares a user’s current skill set against the requirements for specific job roles across industries.Provides Personalized Recommendations: Suggests targeted online courses, certifications, or workshops (e.g., Coursera, Udemy) that align with the user's career goals and skill gap analysis.Ensures Relevance: Recommends learning resources tailored to the latest industry trends and employer demands.By addressing this problem, the system aims to empower individuals to enhance their employability, advance in their careers, and adapt to dynamic workplace requirements
 
 ## 📊 Workflow Diagram
-![Workflow Diagram](./realwork(1).png)
+![Workflow Diagram](./Workflow.png)
 The workflow begins with dataset preprocessing, followed by model training and evaluation. Finally, it allows real-time skill predictions based on user inputs.
 
 ---
