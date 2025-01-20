@@ -18,8 +18,7 @@ In a rapidly evolving job market, individuals often face challenges in identifyi
 
 ## 📊 Workflow Diagram
 <p align="center">
-    <img src="![WhatsApp Image 2025-01-20 at 11 14 11 PM](https://github.com/user-attachments/assets/36540be6-ab10-4406-943d-e427e49c8e22)
-" alt="Workflow Diagram" width="600">
+    <img src="workflow_diagram.png" alt="Workflow Diagram" width="600">
 </p>
 The workflow begins with dataset preprocessing, followed by model training and evaluation. Finally, it allows real-time skill predictions based on user inputs.
 
